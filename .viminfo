@@ -19,20 +19,24 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	#
 
 # File marks:
-'0  2  12  ~/0x03-git/bash/school
-'1  2  15  ~/0x03-git/bash/holberton
-'2  1  0  ~/0x03-git/js/index.js
-'3  1  0  ~/0x03-git/js/main.js
-'4  1  0  ~/0x03-git/c/c_is_fun.c
-'5  1  71  ~/0x03-git/README.md
+'0  2  24  ~/0x03-git/bash/school
+'1  2  21  ~/0x03-git/bash/holberton
+'2  1  0  ~/0x03-git/bash/98
+'3  1  0  ~/0x03-git/js/index.js
+'4  1  0  ~/0x03-git/js/main.js
+'5  1  0  ~/0x03-git/c/c_is_fun.c
+'6  1  71  ~/0x03-git/README.md
 
 # Jumplist (newest first):
--'  2  12  ~/0x03-git/bash/school
+-'  2  24  ~/0x03-git/bash/school
 -'  1  0  ~/0x03-git/bash/school
--'  2  15  ~/0x03-git/bash/holberton
+-'  2  21  ~/0x03-git/bash/holberton
 -'  1  0  ~/0x03-git/bash/holberton
+-'  1  0  ~/0x03-git/bash/98
 -'  1  0  ~/0x03-git/js/index.js
 -'  1  0  ~/0x03-git/js/main.js
 -'  1  0  ~/0x03-git/c/c_is_fun.c
@@ -63,52 +67,87 @@
 -'  1  0  ~/0x03-git/c/c_is_fun.c
 -'  1  71  ~/0x03-git/README.md
 -'  1  71  ~/0x03-git/README.md
--'  2  15  ~/0x03-git/bash/holberton
+-'  1  0  ~/0x03-git/js/index.js
+-'  1  0  ~/0x03-git/js/main.js
+-'  1  0  ~/0x03-git/c/c_is_fun.c
+-'  1  71  ~/0x03-git/README.md
+-'  1  71  ~/0x03-git/README.md
+-'  1  0  ~/0x03-git/c/c_is_fun.c
+-'  1  71  ~/0x03-git/README.md
+-'  1  71  ~/0x03-git/README.md
+-'  1  0  ~/0x03-git/js/main.js
+-'  1  0  ~/0x03-git/c/c_is_fun.c
+-'  1  71  ~/0x03-git/README.md
+-'  1  71  ~/0x03-git/README.md
+-'  1  0  ~/0x03-git/c/c_is_fun.c
+-'  1  71  ~/0x03-git/README.md
+-'  1  71  ~/0x03-git/README.md
+-'  1  0  ~/0x03-git/js/index.js
+-'  1  0  ~/0x03-git/js/main.js
+-'  1  0  ~/0x03-git/c/c_is_fun.c
+-'  1  71  ~/0x03-git/README.md
+-'  1  71  ~/0x03-git/README.md
+-'  1  0  ~/0x03-git/c/c_is_fun.c
+-'  1  71  ~/0x03-git/README.md
+-'  1  71  ~/0x03-git/README.md
+-'  1  0  ~/0x03-git/js/main.js
+-'  1  0  ~/0x03-git/c/c_is_fun.c
+-'  1  71  ~/0x03-git/README.md
+-'  1  71  ~/0x03-git/README.md
+-'  1  0  ~/0x03-git/c/c_is_fun.c
+-'  1  71  ~/0x03-git/README.md
+-'  1  71  ~/0x03-git/README.md
+-'  1  0  ~/0x03-git/js/index.js
+-'  1  0  ~/0x03-git/js/main.js
+-'  1  0  ~/0x03-git/c/c_is_fun.c
+-'  1  71  ~/0x03-git/README.md
+-'  1  71  ~/0x03-git/README.md
+-'  1  0  ~/0x03-git/c/c_is_fun.c
+-'  1  71  ~/0x03-git/README.md
+-'  1  71  ~/0x03-git/README.md
+-'  1  0  ~/0x03-git/js/main.js
+-'  1  0  ~/0x03-git/c/c_is_fun.c
+-'  1  71  ~/0x03-git/README.md
+-'  1  71  ~/0x03-git/README.md
+-'  1  0  ~/0x03-git/c/c_is_fun.c
+-'  1  71  ~/0x03-git/README.md
+-'  1  71  ~/0x03-git/README.md
+-'  1  0  ~/0x03-git/js/index.js
+-'  1  0  ~/0x03-git/js/main.js
+-'  1  0  ~/0x03-git/c/c_is_fun.c
+-'  1  71  ~/0x03-git/README.md
+-'  1  71  ~/0x03-git/README.md
+-'  1  0  ~/0x03-git/c/c_is_fun.c
+-'  1  71  ~/0x03-git/README.md
+-'  1  71  ~/0x03-git/README.md
+-'  1  0  ~/0x03-git/js/main.js
+-'  1  0  ~/0x03-git/c/c_is_fun.c
+-'  1  71  ~/0x03-git/README.md
+-'  2  21  ~/0x03-git/bash/holberton
 -'  1  0  ~/0x03-git/bash/holberton
--'  1  0  ~/0x03-git/js/index.js
--'  1  0  ~/0x03-git/js/main.js
--'  1  0  ~/0x03-git/c/c_is_fun.c
--'  1  71  ~/0x03-git/README.md
--'  1  71  ~/0x03-git/README.md
--'  1  0  ~/0x03-git/c/c_is_fun.c
--'  1  71  ~/0x03-git/README.md
--'  1  71  ~/0x03-git/README.md
--'  1  0  ~/0x03-git/js/main.js
--'  1  0  ~/0x03-git/c/c_is_fun.c
--'  1  71  ~/0x03-git/README.md
--'  1  71  ~/0x03-git/README.md
--'  1  0  ~/0x03-git/c/c_is_fun.c
--'  1  71  ~/0x03-git/README.md
--'  1  71  ~/0x03-git/README.md
--'  1  0  ~/0x03-git/js/index.js
--'  1  0  ~/0x03-git/js/main.js
--'  1  0  ~/0x03-git/c/c_is_fun.c
--'  1  71  ~/0x03-git/README.md
--'  1  71  ~/0x03-git/README.md
--'  1  0  ~/0x03-git/c/c_is_fun.c
--'  1  71  ~/0x03-git/README.md
--'  1  71  ~/0x03-git/README.md
--'  1  0  ~/0x03-git/js/main.js
--'  1  0  ~/0x03-git/c/c_is_fun.c
--'  1  71  ~/0x03-git/README.md
--'  1  71  ~/0x03-git/README.md
--'  1  0  ~/0x03-git/c/c_is_fun.c
--'  1  71  ~/0x03-git/README.md
--'  1  71  ~/0x03-git/README.md
+-'  1  0  ~/0x03-git/bash/98
 
 # History of marks within files (newest to oldest):
 
 > ~/0x03-git/bash/school
-	"	2	12
-	^	2	13
-	.	2	12
-	+	2	12
+	"	2	24
+	^	2	25
+	.	2	24
+	+	2	24
 
 > ~/0x03-git/bash/holberton
-	"	2	15
-	^	2	16
-	.	2	15
+	"	2	21
+	^	2	22
+	.	2	21
 	+	2	15
+	+	1	0
+	+	2	21
+
+> ~/0x03-git/bash/98
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
 
 > ~/0x03-git/js/index.js
 	"	1	0
