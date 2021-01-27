@@ -19,8 +19,11 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	#
 
 # File marks:
+<<<<<<< HEAD
 '0  1  19  ~/0x03-git/up_to_date
 '1  1  19  ~/up_to_date
 '2  2  33  ~/0x03-git/bash/holberton
@@ -37,6 +40,22 @@
 -'  1  0  ~/0x03-git/bash/holberton
 -'  2  12  ~/0x03-git/bash/school
 -'  1  0  ~/0x03-git/bash/school
+=======
+'0  2  24  ~/0x03-git/bash/school
+'1  2  21  ~/0x03-git/bash/holberton
+'2  1  0  ~/0x03-git/bash/98
+'3  1  0  ~/0x03-git/js/index.js
+'4  1  0  ~/0x03-git/js/main.js
+'5  1  0  ~/0x03-git/c/c_is_fun.c
+'6  1  71  ~/0x03-git/README.md
+
+# Jumplist (newest first):
+-'  2  24  ~/0x03-git/bash/school
+-'  1  0  ~/0x03-git/bash/school
+-'  2  21  ~/0x03-git/bash/holberton
+-'  1  0  ~/0x03-git/bash/holberton
+-'  1  0  ~/0x03-git/bash/98
+>>>>>>> update_script
 -'  1  0  ~/0x03-git/js/index.js
 -'  1  0  ~/0x03-git/js/main.js
 -'  1  0  ~/0x03-git/c/c_is_fun.c
@@ -97,8 +116,11 @@
 -'  1  0  ~/0x03-git/c/c_is_fun.c
 -'  1  71  ~/0x03-git/README.md
 -'  1  71  ~/0x03-git/README.md
+<<<<<<< HEAD
 -'  2  12  ~/0x03-git/bash/school
 -'  1  0  ~/0x03-git/bash/school
+=======
+>>>>>>> update_script
 -'  1  0  ~/0x03-git/js/index.js
 -'  1  0  ~/0x03-git/js/main.js
 -'  1  0  ~/0x03-git/c/c_is_fun.c
@@ -125,10 +147,16 @@
 -'  1  0  ~/0x03-git/js/main.js
 -'  1  0  ~/0x03-git/c/c_is_fun.c
 -'  1  71  ~/0x03-git/README.md
+<<<<<<< HEAD
 -'  1  71  ~/0x03-git/README.md
 -'  2  33  ~/0x03-git/bash/holberton
 -'  1  0  ~/0x03-git/bash/holberton
 -'  2  12  ~/0x03-git/bash/school
+=======
+-'  2  21  ~/0x03-git/bash/holberton
+-'  1  0  ~/0x03-git/bash/holberton
+-'  1  0  ~/0x03-git/bash/98
+>>>>>>> update_script
 
 # History of marks within files (newest to oldest):
 
@@ -151,11 +179,28 @@
 	+	2	33
 
 > ~/0x03-git/bash/school
-	"	2	12
-	^	2	13
-	.	2	12
-	+	2	12
+	"	2	24
+	^	2	25
+	.	2	24
+	+	2	24
 
+<<<<<<< HEAD
+=======
+> ~/0x03-git/bash/holberton
+	"	2	21
+	^	2	22
+	.	2	21
+	+	2	15
+	+	1	0
+	+	2	21
+
+> ~/0x03-git/bash/98
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+>>>>>>> update_script
 > ~/0x03-git/js/index.js
 	"	1	0
 	^	1	0
