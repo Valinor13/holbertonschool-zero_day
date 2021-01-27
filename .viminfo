@@ -21,15 +21,17 @@
 # Registers:
 
 # File marks:
-'0  1  19  ~/up_to_date
-'1  2  33  ~/0x03-git/bash/holberton
-'2  2  12  ~/0x03-git/bash/school
-'3  1  0  ~/0x03-git/js/index.js
-'4  1  0  ~/0x03-git/js/main.js
-'5  1  0  ~/0x03-git/c/c_is_fun.c
-'6  1  71  ~/0x03-git/README.md
+'0  1  19  ~/0x03-git/up_to_date
+'1  1  19  ~/up_to_date
+'2  2  33  ~/0x03-git/bash/holberton
+'3  2  12  ~/0x03-git/bash/school
+'4  1  0  ~/0x03-git/js/index.js
+'5  1  0  ~/0x03-git/js/main.js
+'6  1  0  ~/0x03-git/c/c_is_fun.c
+'7  1  71  ~/0x03-git/README.md
 
 # Jumplist (newest first):
+-'  1  19  ~/0x03-git/up_to_date
 -'  1  19  ~/up_to_date
 -'  2  33  ~/0x03-git/bash/holberton
 -'  1  0  ~/0x03-git/bash/holberton
@@ -129,6 +131,12 @@
 -'  2  12  ~/0x03-git/bash/school
 
 # History of marks within files (newest to oldest):
+
+> ~/0x03-git/up_to_date
+	"	1	19
+	^	1	20
+	.	2	0
+	+	2	0
 
 > ~/up_to_date
 	"	1	19
